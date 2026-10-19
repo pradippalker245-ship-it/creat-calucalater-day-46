@@ -1,4 +1,4 @@
-# creat-calucalater-day-46
+# creat-calucalator-day-46
 my c langauge pratices 
 ```c
 #include <stdio.h>
